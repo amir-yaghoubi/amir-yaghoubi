@@ -1,16 +1,25 @@
-### Hi there 👋
+### Yo 👋, I'm Amir.
 
-<!--
-**amir-yaghoubi/amir-yaghoubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Back-end Developer, currently working at @chabok-io.
 
-Here are some ideas to get you started:
+Sorry But Nothing fancy here 😜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+---
+</br>
+
+
+<a href="https://github.com/amir-yaghoubi">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=amir-yaghoubi&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-yaghoubi&hide=html,css&layout=compact&theme=tokyonight"/>
+</a>
+
+</br>
+</br>
+
+📫 **Contact me by:**
+
+* [Email](mailto:amir.yaghoubi.dev@gmail.com)
+* [Telegram](https://t.me/Amirh_Yaghoubi)
+* [Twitter](https://twitter.com/_amir_yaghoubi_)
