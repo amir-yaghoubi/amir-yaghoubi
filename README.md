@@ -1,6 +1,6 @@
 ### Yo 👋, I'm Amir.
 
-💻 Back-end Developer, currently working at @chabok-io.
+💻 Back-end Developer, currently working at [chabok.io](https://chabok.io/).
 
 Sorry But Nothing fancy here 😜
 
