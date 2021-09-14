@@ -1,8 +1,6 @@
 ### Yo 👋, I'm Amir.
 
-💻 Back-end Developer, currently working at [chabok.io](https://chabok.io/).
-
-Sorry But Nothing fancy here 😜
+💻 Motivated Backend Developer with 3+ years of experience in optimizing applications for maximum speed and scalability, co­operating with other developers and product managers and solving any problem that challenges.
 
 </br>
 
