@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/amir-yaghoubi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:amir.yaghoubi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/Amirh_Yaghoubi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://twitter.com/_amir_yaghoubi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/amir_ina_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 </div>
@@ -117,8 +117,9 @@ AI tooling:    Claude Code · OpenCode · agent skills · Ollama · LM Studio ·
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amir-yaghoubi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-yaghoubi&hide=html,css&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-yaghoubi&theme=tokyonight" width="100%" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-yaghoubi&theme=tokyonight" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir-yaghoubi&theme=tokyonight" />
 </div>
 
 ---
